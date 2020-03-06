@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">menucuentas</string>
+    <string name="calculadora_de_propina">Calculadora de propina</string>
+    <string name="cuenta_1">Cuenta 1</string>
+    <string name="cuenta_2">Cuenta 2</string>
+    <string name="cuenta_3">Cuenta 3</string>
+    <string name="cuenta_4">Cuenta 4</string>
+    <string name="cuenta_5">Cuenta 5</string>
+    <string name="calcular1">Ingresar datos.</string>
+    <string name="calcular2">Ingresar datos.</string>
+    <string name="calcular3">Ingresar datos.</string>
+    <string name="calcular4">Ingresar datos.</string>
+    <string name="regreso">Regresar1</string>
+    <string name="volver_al_menu">Volver al menú.</string>
+    <string name="regreso1">Regresar</string>
+    <string name="regreso2">Regresar</string>
+    <string name="regreso3">Regresar</string>
+    <string name="ValosPropina">Ingrese el porcentaje de propina</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="cuenta">Ingrese la suma de la cuenta</string>
+    <string name="next">Next</string>
+    <string name="_0">0</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="add">+</string>
+    <string name="rest">-</string>
+    <string name="borrar">B</string>
+    <string name="mult">x</string>
+    <string name="div">÷</string>
+    <string name="punto">.</string>
+    <string name="resultado">=</string>
+    <string name="porcentaje">%</string>
+    <string name="avance">Operaciones con datos</string>
+    <string name="ir">Ir a calculadora</string>
+    <string name="total_con_propina">Total con propina</string>
+    <string name="total_de_la_cuenta">Total de la cuenta</string>
+    <string name="regre">Atrás</string>
+
+</resources>
